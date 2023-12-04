@@ -1,0 +1,21 @@
+
+-------- sha256sum -c checksums --------
+test.sh: OK
+test.cpp: OK
+tiny_test.hpp: OK
+CMakeLists.txt: OK
+build.sh: OK
+.clang-tidy: OK
+
+-------- ./build.sh -DCMAKE_CXX_COMPILER=g++ -DCMAKE_C_COMPILER=gcc --------
+Building the project...
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/arseniyx92/Desktop/MIPT/C++/homework/BigInteger/biginteger-rational-arseniyx92/build
+calling make...
+building using 10 workers
+[ 50%] Building CXX object CMakeFiles/biginteger.dir/test.cpp.o
+[100%] Linking CXX executable biginteger
+[100%] Built target biginteger
+build ready
+

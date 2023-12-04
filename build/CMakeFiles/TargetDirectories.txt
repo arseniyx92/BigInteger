@@ -1,0 +1,3 @@
+/Users/arseniyx92/Desktop/MIPT/C++/homework/BigInteger/biginteger-rational-arseniyx92/build/CMakeFiles/biginteger.dir
+/Users/arseniyx92/Desktop/MIPT/C++/homework/BigInteger/biginteger-rational-arseniyx92/build/CMakeFiles/edit_cache.dir
+/Users/arseniyx92/Desktop/MIPT/C++/homework/BigInteger/biginteger-rational-arseniyx92/build/CMakeFiles/rebuild_cache.dir
